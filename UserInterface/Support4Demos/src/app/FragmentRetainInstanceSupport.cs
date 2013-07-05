@@ -123,7 +123,7 @@ namespace com.example.android.supportv4.app
                                     return;
                                 }
                                 try {
-                                    retainedFragment.Wait();
+                                    retainedFragment.JavaWait();
                                 } catch (InterruptedException) {
                                 }
                             }
@@ -140,7 +140,7 @@ namespace com.example.android.supportv4.app
                         // here to pretend like we are.
                         lock (retainedFragment) {
                             try {
-                                retainedFragment.Wait(50);
+                                retainedFragment.JavaWait(50);
                             } catch (InterruptedException) {
                             }
                         }
