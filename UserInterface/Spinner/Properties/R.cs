@@ -25,7 +25,7 @@ namespace UsingSpinner
         public sealed class Ids
         {
             
-            public const int animalSpinner = 0x7f04000e;
+            public const int animalSpinner = 0x7f040035;
         }
         
         public sealed class Arrays

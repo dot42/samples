@@ -25,11 +25,11 @@ namespace SimpleCamera
         public sealed class Ids
         {
             
-            public const int preview = 0x7f04000e;
+            public const int preview = 0x7f040035;
             
-            public const int captureButton = 0x7f04000f;
+            public const int captureButton = 0x7f040036;
             
-            public const int previewButton = 0x7f040010;
+            public const int previewButton = 0x7f040037;
         }
     }
 }

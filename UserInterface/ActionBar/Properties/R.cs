@@ -27,17 +27,17 @@ namespace SimpleActionBar
         public sealed class Ids
         {
             
-            public const int tbLog = 0x7f04000e;
+            public const int tbLog = 0x7f040035;
             
-            public const int item1 = 0x7f04000f;
+            public const int item1 = 0x7f040036;
             
-            public const int firstGroup = 0x7f040010;
+            public const int firstGroup = 0x7f040037;
             
-            public const int groupItem1 = 0x7f040011;
+            public const int groupItem1 = 0x7f040038;
             
-            public const int submenu = 0x7f040012;
+            public const int submenu = 0x7f040039;
             
-            public const int submenu_item1 = 0x7f040013;
+            public const int submenu_item1 = 0x7f04003a;
         }
         
         public sealed class Menus

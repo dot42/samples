@@ -29,9 +29,9 @@ namespace SimpleFragment
         public sealed class Ids
         {
             
-            public const int myLeftFragment = 0x7f04000e;
+            public const int myLeftFragment = 0x7f040035;
             
-            public const int myRightFragment = 0x7f04000f;
+            public const int myRightFragment = 0x7f040036;
         }
     }
 }

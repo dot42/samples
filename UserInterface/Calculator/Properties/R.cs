@@ -27,39 +27,39 @@ namespace Calculator
         public sealed class Ids
         {
             
-            public const int tbValue = 0x7f04000e;
+            public const int tbValue = 0x7f040035;
             
-            public const int cmd1 = 0x7f04000f;
+            public const int cmd1 = 0x7f040036;
             
-            public const int cmd2 = 0x7f040010;
+            public const int cmd2 = 0x7f040037;
             
-            public const int cmd3 = 0x7f040011;
+            public const int cmd3 = 0x7f040038;
             
-            public const int cmdDiv = 0x7f040012;
+            public const int cmdDiv = 0x7f040039;
             
-            public const int cmd4 = 0x7f040013;
+            public const int cmd4 = 0x7f04003a;
             
-            public const int cmd5 = 0x7f040014;
+            public const int cmd5 = 0x7f04003b;
             
-            public const int cmd6 = 0x7f040015;
+            public const int cmd6 = 0x7f04003c;
             
-            public const int cmdMul = 0x7f040016;
+            public const int cmdMul = 0x7f04003d;
             
-            public const int cmd7 = 0x7f040017;
+            public const int cmd7 = 0x7f04003e;
             
-            public const int cmd8 = 0x7f040018;
+            public const int cmd8 = 0x7f04003f;
             
-            public const int cmd9 = 0x7f040019;
+            public const int cmd9 = 0x7f040040;
             
-            public const int cmdSub = 0x7f04001a;
+            public const int cmdSub = 0x7f040041;
             
-            public const int cmd0 = 0x7f04001b;
+            public const int cmd0 = 0x7f040042;
             
-            public const int cmdEnter = 0x7f04001c;
+            public const int cmdEnter = 0x7f040043;
             
-            public const int cmdClear = 0x7f04001d;
+            public const int cmdClear = 0x7f040044;
             
-            public const int cmdAdd = 0x7f04001e;
+            public const int cmdAdd = 0x7f040045;
         }
     }
 }

@@ -27,9 +27,9 @@ namespace AirportInfo
         public sealed class Ids
         {
             
-            public const int codeList = 0x7f04000e;
+            public const int codeList = 0x7f040035;
             
-            public const int airportInfo = 0x7f04000f;
+            public const int airportInfo = 0x7f040036;
         }
     }
 }

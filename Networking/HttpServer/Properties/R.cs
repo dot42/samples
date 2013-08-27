@@ -25,7 +25,7 @@ namespace SimpleHttpServer
         public sealed class Ids
         {
             
-            public const int status = 0x7f04000e;
+            public const int status = 0x7f040035;
         }
     }
 }

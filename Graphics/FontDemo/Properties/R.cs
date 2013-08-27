@@ -25,7 +25,7 @@ namespace FontDemo
         public sealed class Ids
         {
             
-            public const int fontView = 0x7f04000e;
+            public const int fontView = 0x7f040035;
         }
         
         public sealed class Strings

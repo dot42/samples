@@ -25,9 +25,9 @@ namespace Echo
         public sealed class Ids
         {
             
-            public const int getSpeechButton = 0x7f04000e;
+            public const int getSpeechButton = 0x7f040035;
             
-            public const int speechText = 0x7f04000f;
+            public const int speechText = 0x7f040036;
         }
     }
 }

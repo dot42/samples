@@ -25,9 +25,9 @@ namespace UsingSeekBar
         public sealed class Ids
         {
             
-            public const int myBar = 0x7f04000e;
+            public const int myBar = 0x7f040035;
             
-            public const int myLabel = 0x7f04000f;
+            public const int myLabel = 0x7f040036;
         }
     }
 }

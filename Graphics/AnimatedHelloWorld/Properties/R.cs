@@ -31,7 +31,7 @@ namespace AnimatedHelloWorld
         public sealed class Ids
         {
             
-            public const int theLabel = 0x7f05000e;
+            public const int theLabel = 0x7f050035;
         }
     }
 }

@@ -4,6 +4,7 @@ using Dot42;
 using Dot42.Manifest;
 
 [assembly: Application("dot42 Hello World Sample")]
+[assembly: Package(VersionName = "1.0.0.0")]
 
 namespace HelloWorld
 {

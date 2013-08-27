@@ -95,107 +95,107 @@ namespace Support4Demos
         public sealed class Ids
         {
             
-            public const int accessibility_state = 0x7f05000e;
+            public const int accessibility_state = 0x7f050035;
             
-            public const int text = 0x7f05000f;
+            public const int text = 0x7f050036;
             
-            public const int embedded = 0x7f050010;
+            public const int embedded = 0x7f050037;
             
-            public const int created = 0x7f050011;
+            public const int created = 0x7f050038;
             
-            public const int embedded_land = 0x7f050012;
+            public const int embedded_land = 0x7f050039;
             
-            public const int long_press = 0x7f050013;
+            public const int long_press = 0x7f05003a;
             
-            public const int show = 0x7f050014;
+            public const int show = 0x7f05003b;
             
-            public const int show_dialog = 0x7f050015;
+            public const int show_dialog = 0x7f05003c;
             
-            public const int inline_text = 0x7f050016;
+            public const int inline_text = 0x7f05003d;
             
-            public const int frag1hide = 0x7f050017;
+            public const int frag1hide = 0x7f05003e;
             
-            public const int fragment1 = 0x7f050018;
+            public const int fragment1 = 0x7f05003f;
             
-            public const int frag2hide = 0x7f050019;
+            public const int frag2hide = 0x7f050040;
             
-            public const int fragment2 = 0x7f05001a;
+            public const int fragment2 = 0x7f050041;
             
-            public const int titles = 0x7f05001b;
+            public const int titles = 0x7f050042;
             
-            public const int details = 0x7f05001c;
+            public const int details = 0x7f050043;
             
-            public const int menu1 = 0x7f05001d;
+            public const int menu1 = 0x7f050044;
             
-            public const int menu2 = 0x7f05001e;
+            public const int menu2 = 0x7f050045;
             
-            public const int pager = 0x7f05001f;
+            public const int pager = 0x7f050046;
             
-            public const int goto_first = 0x7f050020;
+            public const int goto_first = 0x7f050047;
             
-            public const int goto_last = 0x7f050021;
+            public const int goto_last = 0x7f050048;
             
-            public const int progress_horizontal = 0x7f050022;
+            public const int progress_horizontal = 0x7f050049;
             
-            public const int restart = 0x7f050023;
+            public const int restart = 0x7f05004a;
             
-            public const int simple_fragment = 0x7f050024;
+            public const int simple_fragment = 0x7f05004b;
             
-            public const int home = 0x7f050025;
+            public const int home = 0x7f05004c;
             
-            public const int new_fragment = 0x7f050026;
+            public const int new_fragment = 0x7f05004d;
             
-            public const int delete_fragment = 0x7f050027;
+            public const int delete_fragment = 0x7f05004e;
             
-            public const int realtabcontent = 0x7f050028;
+            public const int realtabcontent = 0x7f05004f;
             
-            public const int msg = 0x7f050029;
+            public const int msg = 0x7f050050;
             
-            public const int saved = 0x7f05002a;
+            public const int saved = 0x7f050051;
             
-            public const int icon = 0x7f05002b;
+            public const int icon = 0x7f050052;
             
-            public const int start = 0x7f05002c;
+            public const int start = 0x7f050053;
             
-            public const int stop = 0x7f05002d;
+            public const int stop = 0x7f050054;
             
-            public const int callback = 0x7f05002e;
+            public const int callback = 0x7f050055;
             
-            public const int results = 0x7f05002f;
+            public const int results = 0x7f050056;
             
-            public const int get = 0x7f050030;
+            public const int get = 0x7f050057;
             
-            public const int corky = 0x7f050031;
+            public const int corky = 0x7f050058;
             
-            public const int violet = 0x7f050032;
+            public const int violet = 0x7f050059;
             
-            public const int app_info = 0x7f050033;
+            public const int app_info = 0x7f05005a;
             
-            public const int share_text = 0x7f050034;
+            public const int share_text = 0x7f05005b;
             
-            public const int share_file = 0x7f050035;
+            public const int share_file = 0x7f05005c;
             
-            public const int share_multiple_file = 0x7f050036;
+            public const int share_multiple_file = 0x7f05005d;
             
-            public const int invisible_item = 0x7f050037;
+            public const int invisible_item = 0x7f05005e;
             
-            public const int a_item = 0x7f050038;
+            public const int a_item = 0x7f05005f;
             
-            public const int b_item = 0x7f050039;
+            public const int b_item = 0x7f050060;
             
-            public const int c_item = 0x7f05003a;
+            public const int c_item = 0x7f050061;
             
-            public const int d_item = 0x7f05003b;
+            public const int d_item = 0x7f050062;
             
-            public const int e_item = 0x7f05003c;
+            public const int e_item = 0x7f050063;
             
-            public const int f_item = 0x7f05003d;
+            public const int f_item = 0x7f050064;
             
-            public const int g_item = 0x7f05003e;
+            public const int g_item = 0x7f050065;
             
-            public const int h_item = 0x7f05003f;
+            public const int h_item = 0x7f050066;
             
-            public const int excl_item = 0x7f050040;
+            public const int excl_item = 0x7f050067;
         }
         
         public sealed class Strings

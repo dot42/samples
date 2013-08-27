@@ -27,9 +27,9 @@ namespace Dot42Radio
         public sealed class Ids
         {
             
-            public const int playList = 0x7f04000e;
+            public const int playList = 0x7f040035;
             
-            public const int playItemText = 0x7f04000f;
+            public const int playItemText = 0x7f040036;
         }
     }
 }

@@ -25,7 +25,7 @@ namespace Alert
         public sealed class Ids
         {
             
-            public const int button = 0x7f04000e;
+            public const int button = 0x7f040035;
         }
     }
 }

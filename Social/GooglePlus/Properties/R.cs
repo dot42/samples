@@ -203,17 +203,17 @@ namespace GooglePlusClient
             
             public const int common_signin_button_text_long = 0x7f040029;
             
-            public const int auth_client_availability_notification_title = 0x7f04002a;
+            public const int auth_client_using_bad_version_title = 0x7f04002a;
             
-            public const int auth_client_play_services_err_notification_msg = 0x7f04002b;
+            public const int auth_client_needs_enabling_title = 0x7f04002b;
             
-            public const int auth_client_requested_by_msg = 0x7f04002c;
+            public const int auth_client_needs_installation_title = 0x7f04002c;
             
-            public const int location_client_ulr_inactive_age_under_13 = 0x7f04002d;
+            public const int auth_client_needs_update_title = 0x7f04002d;
             
-            public const int location_client_ulr_inactive_age_unknown = 0x7f04002e;
+            public const int auth_client_play_services_err_notification_msg = 0x7f04002e;
             
-            public const int location_client_ulr_inactive_unknown_restriction = 0x7f04002f;
+            public const int auth_client_requested_by_msg = 0x7f04002f;
         }
         
         public sealed class Colors
@@ -247,47 +247,47 @@ namespace GooglePlusClient
         public sealed class Ids
         {
             
-            public const int none = 0x7f06000e;
+            public const int none = 0x7f060035;
             
-            public const int normal = 0x7f06000f;
+            public const int normal = 0x7f060036;
             
-            public const int satellite = 0x7f060010;
+            public const int satellite = 0x7f060037;
             
-            public const int terrain = 0x7f060011;
+            public const int terrain = 0x7f060038;
             
-            public const int hybrid = 0x7f060012;
+            public const int hybrid = 0x7f060039;
             
-            public const int moment_list = 0x7f060013;
+            public const int moment_list = 0x7f06003a;
             
-            public const int moment_type = 0x7f060014;
+            public const int moment_type = 0x7f06003b;
             
-            public const int moment_title = 0x7f060015;
+            public const int moment_title = 0x7f06003c;
             
-            public const int person_list = 0x7f060016;
+            public const int person_list = 0x7f06003d;
             
-            public const int plus_one_small_button = 0x7f060017;
+            public const int plus_one_small_button = 0x7f06003e;
             
-            public const int plus_one_medium_button = 0x7f060018;
+            public const int plus_one_medium_button = 0x7f06003f;
             
-            public const int plus_one_tall_button = 0x7f060019;
+            public const int plus_one_tall_button = 0x7f060040;
             
-            public const int plus_one_standard_button = 0x7f06001a;
+            public const int plus_one_standard_button = 0x7f060041;
             
-            public const int plus_one_standard_ann_button = 0x7f06001b;
+            public const int plus_one_standard_ann_button = 0x7f060042;
             
-            public const int share_prefill_edit = 0x7f06001c;
+            public const int share_prefill_edit = 0x7f060043;
             
-            public const int send_interactive_button = 0x7f06001d;
+            public const int send_interactive_button = 0x7f060044;
             
-            public const int sign_in_button = 0x7f06001e;
+            public const int sign_in_button = 0x7f060045;
             
-            public const int sign_out_button = 0x7f06001f;
+            public const int sign_out_button = 0x7f060046;
             
-            public const int revoke_access_button = 0x7f060020;
+            public const int revoke_access_button = 0x7f060047;
             
-            public const int sign_in_status = 0x7f060021;
+            public const int sign_in_status = 0x7f060048;
             
-            public const int change_locale = 0x7f060022;
+            public const int change_locale = 0x7f060049;
         }
         
         public sealed class Menus

@@ -29,15 +29,15 @@ namespace FileBrowser
         public sealed class Ids
         {
             
-            public const int txtInfo = 0x7f04000e;
+            public const int txtInfo = 0x7f040035;
             
-            public const int cmdOpen = 0x7f04000f;
+            public const int cmdOpen = 0x7f040036;
             
-            public const int lbPath = 0x7f040010;
+            public const int lbPath = 0x7f040037;
             
-            public const int list = 0x7f040011;
+            public const int list = 0x7f040038;
             
-            public const int txtRow = 0x7f040012;
+            public const int txtRow = 0x7f040039;
         }
     }
 }

@@ -22,7 +22,7 @@ namespace WcfClient
 		// ***************************** A CHANGE IS NEEDED ******************************
 		// Change the IP address in this URL to the IP address of the computer running the TodoServer.
 		// ***************************** A CHANGE IS NEEDED ******************************
-		private const string _hostAddress = "http://192.168.1.1:9222/RestService/TodoService";
+		private const string _hostAddress = "http://192.168.140.64:9222/RestService/TodoService";
 
 		private BackgroundWorker worker;
 		private TextView versionTextView;

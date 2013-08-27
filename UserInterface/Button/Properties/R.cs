@@ -27,7 +27,7 @@ namespace UsingButton
         public sealed class Ids
         {
             
-            public const int myButton = 0x7f04000e;
+            public const int myButton = 0x7f040035;
         }
     }
 }

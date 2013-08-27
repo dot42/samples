@@ -25,21 +25,21 @@ namespace SimpleGps
         public sealed class Ids
         {
             
-            public const int txStatus = 0x7f04000e;
+            public const int txStatus = 0x7f040035;
             
-            public const int txProvider = 0x7f04000f;
+            public const int txProvider = 0x7f040036;
             
-            public const int txAccuracy = 0x7f040010;
+            public const int txAccuracy = 0x7f040037;
             
-            public const int txLatitude = 0x7f040011;
+            public const int txLatitude = 0x7f040038;
             
-            public const int txLongtitude = 0x7f040012;
+            public const int txLongtitude = 0x7f040039;
             
-            public const int txAltitude = 0x7f040013;
+            public const int txAltitude = 0x7f04003a;
             
-            public const int txSpeed = 0x7f040014;
+            public const int txSpeed = 0x7f04003b;
             
-            public const int txExtra = 0x7f040015;
+            public const int txExtra = 0x7f04003c;
         }
     }
 }

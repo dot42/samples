@@ -4,6 +4,7 @@ using Android.App;
 using Android.Os;
 using Android.Util;
 using Android.Widget;
+using Dot42;
 using Dot42.Manifest;
 using Java.Io;
 using Java.Net;
